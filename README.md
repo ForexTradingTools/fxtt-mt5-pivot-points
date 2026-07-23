@@ -107,7 +107,7 @@ Uses Classic PP with Fibonacci retracement levels applied to the range:
 
 ## 🚀 Installation
 
-1. Download `FXTT_Pivot_Points.ex5` from the [Releases](../../releases) page
+1. Download `FXTT_Pivot_Points.ex5` from the [Releases](https://github.com/ForexTradingTools/fxtt-mt5-pivot-points/releases) page
    *(or compile `FXTT_Pivot_Points.mq5` yourself in the MetaEditor)*
 2. Open MT5 → **File → Open Data Folder**
 3. Navigate to `MQL5/Indicators/`
@@ -159,6 +159,16 @@ Uses Classic PP with Fibonacci retracement levels applied to the range:
 5. **Switch to Weekly pivots for swing trading** — select W1 timeframe for multi-day support/resistance levels
 6. **Use Camarilla for mean reversion** — when price reaches R3/S3 on Camarilla, consider a fade setup back toward the close
 7. **Use Fibonacci for breakout trading** — Fibonacci pivots give clear extension targets when price breaks out of the prior range
+
+---
+
+## 🖥️ Compatibility
+
+- **Platform:** MetaTrader 5 (MT5)
+- **File type:** `.ex5` compiled file / `.mq5` source file
+- **Version:** 1.00
+- **Instruments:** Forex, gold, indices, crypto, and other MT5-supported symbols
+- **Install folder:** `MQL5/Indicators/`
 
 ---
 
