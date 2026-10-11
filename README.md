@@ -18,7 +18,7 @@ The **FxTT MT5 Pivot Points** indicator calculates and draws pivot point levels 
 
 Pivot points are one of the most widely used technical analysis tools by professional traders. They provide objective support and resistance levels derived purely from the previous period's price action (high, low, and close), making them a reliable reference for intraday and swing trading decisions.
 
-**Product page & documentation:** [forextradingtools.eu/products/indicators/pivot-points-mt5-free](https://forextradingtools.eu/products/indicators/pivot-points-mt5-free/)
+**Product page & documentation:** [forextradingtools.eu/en/marketplace/pivot-points-mt5](https://forextradingtools.eu/en/marketplace/pivot-points-mt5)
 
 ---
 
@@ -231,7 +231,7 @@ No. Pivot levels are calculated from the previous period's completed bar and rem
 Yes. The indicator is display-only and does not send orders or interfere with EAs.
 
 **Is there a version for the MT5 Forex Scanner?**
-Yes — the [FxTT MT5 Forex Scanner](https://forextradingtools.eu/products/indicators/mt5-forex-scanner-free/) includes a Pivots column showing the current pivot level and pip distance for every scanned pair.
+Yes — the [FxTT MT5 Forex Scanner](https://forextradingtools.eu/en/marketplace/mt5-forex-scanner) includes a Pivots column showing the current pivot level and pip distance for every scanned pair.
 
 ---
 
@@ -263,12 +263,12 @@ See [LICENSE](./LICENSE) for details.
 
 All free indicators and EAs from Forex Trading Tools:
 
-- 🔗 [FxTT MT5 Forex Scanner – Free MT5 Indicator](https://forextradingtools.eu/products/indicators/mt5-forex-scanner-free/)
-- 🔗 [FxTT Multi-purpose Forex Scanner – Free MT4 Indicator](https://forextradingtools.eu/products/indicators/forex-scanner-free/)
-- 🔗 [Strategy Checklist – Free MT4 Indicator](https://forextradingtools.eu/products/indicators/strategy-checklist-free-indicator/)
-- 🔗 [MTF Triple Moving Averages – Free MT4 Indicator](https://forextradingtools.eu/products/indicators/mtf-triple-moving-averages-free-indicator/)
-- 🔗 [MTF Bollinger Bands – Free MT4 Indicator](https://forextradingtools.eu/products/indicators/mtf-bollinger-bands-indicator/)
-- 🔗 [MTF Bollinger Bands MT5 – Free MT5 Indicator](https://forextradingtools.eu/products/indicators/mtf-bollinger-bands-mt5-indicator/)
+- 🔗 [FxTT MT5 Forex Scanner – Free MT5 Indicator](https://forextradingtools.eu/en/marketplace/mt5-forex-scanner)
+- 🔗 [FxTT Multi-purpose Forex Scanner – Free MT4 Indicator](https://forextradingtools.eu/en/marketplace/forex-scanner)
+- 🔗 [Strategy Checklist – Free MT4 Indicator](https://forextradingtools.eu/en/marketplace/strategy-checklist)
+- 🔗 [MTF Triple Moving Averages – Free MT4 Indicator](https://forextradingtools.eu/en/marketplace/mtf-triple-ma)
+- 🔗 [MTF Bollinger Bands – Free MT4 Indicator](https://forextradingtools.eu/en/marketplace/mtf-bollinger-bands)
+- 🔗 [MTF Bollinger Bands MT5 – Free MT5 Indicator](https://forextradingtools.eu/en/marketplace/mtf-bollinger-bands-mt5)
 
 ---
 
