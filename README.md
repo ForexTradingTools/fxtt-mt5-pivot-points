@@ -235,6 +235,12 @@ Yes — the [FxTT MT5 Forex Scanner](https://forextradingtools.eu/en/marketplace
 
 ---
 
+## Optional: execute your own chart plan
+
+Pivot Points maps reference levels; it does not place trades. If you already draw your own entry lines and want MetaTrader to monitor them, **Trendline PRO** is a separate paid MT4/MT5 execution tool from the same developer. You define the line, entry mode, stop-loss and take-profit; it monitors and executes your configured rule. It does not automatically trade this indicator's pivot levels or generate signals.
+
+[See the Trendline PRO workflow and demo](https://forextradingtools.eu/en/marketplace/trendline-pro?utm_source=github&utm_medium=readme&utm_campaign=free_to_paid_exp1&utm_content=mt5_pivot_points#walkthrough). Test on demo before live use. This free indicator remains free and works independently.
+
 ## Related FxTT repositories
 
 The public FxTT indicator family is split across these repositories:
