@@ -107,13 +107,13 @@ Uses Classic PP with Fibonacci retracement levels applied to the range:
 
 ## 🚀 Installation
 
-1. Download `FXTT_Pivot_Points.ex5` from the [Releases](https://github.com/ForexTradingTools/fxtt-mt5-pivot-points/releases) page
-   *(or compile `FXTT_Pivot_Points.mq5` yourself in the MetaEditor)*
+1. Download `FXTT_PivotPoints.zip` from the [v1.0 release](https://github.com/ForexTradingTools/fxtt-mt5-pivot-points/releases/tag/v1.0) and extract `FXTT_PivotPoints.ex5`
+   *(or compile `src/FXTT_PivotPoints.mq5` yourself in the MetaEditor)*
 2. Open MT5 → **File → Open Data Folder**
 3. Navigate to `MQL5/Indicators/`
-4. Copy `FXTT_Pivot_Points.ex5` into that folder
+4. Copy `FXTT_PivotPoints.ex5` into that folder
 5. Restart MT5 (or right-click the Navigator panel → **Refresh**)
-6. Find **FXTT_Pivot_Points** under **Navigator → Indicators**
+6. Find **FXTT_PivotPoints** under **Navigator → Indicators**
 7. Drag it onto any chart — pivot levels will appear immediately
 8. Configure the method, timeframe, and display settings in the Inputs tab
 
@@ -177,9 +177,9 @@ Uses Classic PP with Fibonacci retracement levels applied to the range:
 ```
 fxtt-mt5-pivot-points/
 ├── src/
-│   └── FXTT_Pivot_Points.mq5        # Full MQL5 source code
+│   └── FXTT_PivotPoints.mq5         # Full MQL5 source code
 ├── releases/
-│   └── FXTT_Pivot_Points.ex5        # Compiled MT5 binary (ready to install)
+│   └── FXTT_PivotPoints.ex5         # Compiled MT5 binary (ready to install)
 ├── screenshots/
 │   ├── pivot-points-chart.png        # Indicator on MT5 chart
 │   └── pivot-points-settings.png     # Settings panel
